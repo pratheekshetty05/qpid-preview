@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 144 144" fill="none" stroke="#FDEBAD" stroke-opacity=".16" stroke-width="1.5">
+  <path d="M0 144V72a72 72 0 0 1 144 0v72"/>
+  <path d="M10 144V72a62 62 0 0 1 124 0v72"/>
+  <path d="M20 144V72a52 52 0 0 1 104 0v72"/>
+  <path d="M-72 72a72 72 0 0 1 144 0"/>
+  <path d="M72 72a72 72 0 0 1 144 0"/>
+</svg>

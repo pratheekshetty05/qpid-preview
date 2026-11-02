@@ -1,0 +1,6 @@
+:HL["/qpid-preview/option-2/_next/static/chunks/1wzhir0i3h065.css","style"]
+:HL["/qpid-preview/option-2/art/key-hero.webp","image"]
+:HL["/qpid-preview/option-2/art/logo-cream.svg","image"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"/_not-found","h":64,"c":"$Q2"}]]
+0:{"b":"hHhhVwxNRO63Awf6LzY-W","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
