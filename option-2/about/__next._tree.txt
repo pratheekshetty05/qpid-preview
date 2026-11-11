@@ -1,4 +1,4 @@
-:HL["/qpid-preview/option-2/_next/static/chunks/1wzhir0i3h065.css","style"]
+:HL["/qpid-preview/option-2/_next/static/chunks/1b9w3-t59rt6-.css","style"]
 :HL["/qpid-preview/option-2/_next/static/media/660acf689794c992-s.p.2_mbdogr7ni8i.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/qpid-preview/option-2/_next/static/media/90df65aa73cd68fd-s.p.02omj01dfd0zw.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/qpid-preview/option-2/_next/static/media/9d036f80216c14ee-s.p.3u4lli0-axodc.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
@@ -8,4 +8,4 @@
 :HL["/qpid-preview/option-2/art/cupid.webp","image",{"fetchPriority":"high"}]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"about","h":64,"c":"$Q2"}]]
-0:{"b":"34KsOH5LTjOuCOfV6g_4u","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"bqDKqGArRuLQdLWYg96YD","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
